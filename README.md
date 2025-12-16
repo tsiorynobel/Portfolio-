@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mon Portfolio React 🚀
 
 Un template de portfolio moderne que j'ai créé avec React. Simple à utiliser et à personnaliser pour montrer tes projets.
@@ -33,3 +34,6 @@ Tous les fichiers à modifier sont dans `/src/data/` :
 ## 💡 Contribution
 
 Des idées d'amélioration ? N'hésite pas à proposer !
+=======
+
+>>>>>>> 1e9a855680b050018d13a7e0634168219f7758c9

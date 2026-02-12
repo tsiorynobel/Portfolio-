@@ -40,7 +40,7 @@ const INFO = {
 					`,
 				technologies: ["Spring Boot 3", "Java 17", "Angular 16", "JWT", "Mobile Money"],
 				status: "En amélioration continue",
-				link: "	https://www.arribas.fr/"
+				link: "https://zara-service.vercel.app/auth/login?returnUrl=%2F"
 		},
 
 		{

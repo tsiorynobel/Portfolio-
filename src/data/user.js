@@ -41,7 +41,7 @@ const INFO = {
 				technologies: ["Spring Boot 3", "Java 17", "Angular 16", "JWT", "Mobile Money"],
 				status: "En amélioration continue",
 				link: "https://zara-service.vercel.app/auth/login?returnUrl=%2F",
-				logo: "public/zaraService.png",
+				logo: "/zaraService.png",
 		},
 
 		{
@@ -55,7 +55,7 @@ const INFO = {
 				technologies: ["Symfony", "PrestaShop", "PHP", "Modules e-commerce", "Optimisation UX/UI"],
 				status: "Projet terminé",
 				link: "https://www.arribas.fr/",
-				logo: "public/arribas.jpg",
+				logo: "/arribas.jpg",
 		},
 
 			],

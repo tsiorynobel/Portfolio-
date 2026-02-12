@@ -30,50 +30,33 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			title: "Zara Service",
+			    description: `
+					Application web collaborative qui met en relation des demandeurs et des prestataires de services (coiffure, bricolage, plomberie, livraison, etc.). 
+					Conçue avec une architecture n-tiers, elle combine un backend Spring Boot 3 / Java 17 (API REST, authentification JWT, gestion des rôles, paiements Mobile Money) 
+					et un frontend Angular 16 (recherche et filtrage des services, tableau de bord prestataire, profil utilisateur, historique des prestations et système de réservation en ligne).
+
+					Ce projet est en amélioration continue, avec pour objectif d'ajouter de nouvelles fonctionnalités, d'optimiser l'expérience utilisateur et de faciliter la mise en relation de manière simple et efficace.
+					`,
+				technologies: ["Spring Boot 3", "Java 17", "Angular 16", "JWT", "Mobile Money"],
+				status: "En amélioration continue",
+				link: "	https://www.arribas.fr/"
 		},
 
 		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			title: "Refonte du site Arribas France",
+			    description: `
+					Refonte complète du site web Arribas France pour moderniser l'interface et améliorer l'expérience utilisateur. 
+					Le projet a inclus l'optimisation des performances, la mise à jour des modules existants, et l'intégration de nouvelles fonctionnalités pour faciliter la navigation et le parcours client.
+					
+					Le backend a été travaillé avec **Symfony** pour structurer l'application et faciliter la maintenance, tandis que l’interface front-end a été optimisée pour une expérience utilisateur fluide et moderne.
+					`,
+				technologies: ["Symfony", "PrestaShop", "PHP", "Modules e-commerce", "Optimisation UX/UI"],
+				status: "Projet terminé",
+				link: "https://www.arribas.fr/",
 		},
 
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-	],
+			],
 };
 
 export default INFO;

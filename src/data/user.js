@@ -40,7 +40,8 @@ const INFO = {
 					`,
 				technologies: ["Spring Boot 3", "Java 17", "Angular 16", "JWT", "Mobile Money"],
 				status: "En amélioration continue",
-				link: "https://zara-service.vercel.app/auth/login?returnUrl=%2F"
+				link: "https://zara-service.vercel.app/auth/login?returnUrl=%2F",
+				logo: "../zara_service_logo.png",
 		},
 
 		{
@@ -49,11 +50,12 @@ const INFO = {
 					Refonte complète du site web Arribas France pour moderniser l'interface et améliorer l'expérience utilisateur. 
 					Le projet a inclus l'optimisation des performances, la mise à jour des modules existants, et l'intégration de nouvelles fonctionnalités pour faciliter la navigation et le parcours client.
 					
-					Le backend a été travaillé avec **Symfony** pour structurer l'application et faciliter la maintenance, tandis que l’interface front-end a été optimisée pour une expérience utilisateur fluide et moderne.
+					Le backend a été travaillé avec Symfony pour structurer l'application et faciliter la maintenance, tandis que l’interface front-end a été optimisée pour une expérience utilisateur fluide et moderne.
 					`,
 				technologies: ["Symfony", "PrestaShop", "PHP", "Modules e-commerce", "Optimisation UX/UI"],
 				status: "Projet terminé",
 				link: "https://www.arribas.fr/",
+				logo: "../arribas_logo.png",
 		},
 
 			],

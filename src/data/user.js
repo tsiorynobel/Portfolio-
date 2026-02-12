@@ -13,7 +13,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Développeur full-stack JavaScript en alternance.",
+		title: "Développeur full-stack en alternance.",
 		description: "Polyvalent sur différentes technologies, je maîtrise particulièrement le développement web avec Node.js, React et Angular, ainsi que le mobile avec Flutter. Code propre, tests rigoureux, amélioration continue. Actuellement en formation sur l'IA et le Machine Learning en JavaScript pour rester performant et à la pointe."
 	},
 
